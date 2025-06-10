@@ -13,3 +13,21 @@ It helps you quickly assess the performance of multiple machine learning models 
 ## Installation
 ```bash
 pip install regressalot
+```
+
+Usage
+
+To run the AutoML pipeline on your regression dataset:
+```python
+from regressalot import AutoMLRunner
+
+runner = AutoMLRunner(
+    data='regression_sample.csv',  # path to your CSV file
+    target='target',              # name of the target column
+    task='regression'            # task type
+)
+
+runner.run()
+```
+
+Make sure your dataset has a mix of numerical and/or categorical features and a clearly defined target column. The library automatically encodes categorical features.
