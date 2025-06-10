@@ -6,7 +6,7 @@ It helps you quickly assess the performance of multiple machine learning models 
 ## Features
 - One-line run of Linear Regression, Decision Tree, Random Forest, and XGBoost
 - Automatic feature encoding
-- Evaluation metrics like R², RMSE, RMSPE, over/under-predictions
+- Evaluation metrics like R², RMSE, RMSPE, over/under-predictions, overfitting
 - Ranking of models by performance
 - Prediction plots
 
