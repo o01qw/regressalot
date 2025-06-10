@@ -15,7 +15,7 @@ It helps you quickly assess the performance of multiple machine learning models 
 pip install regressalot
 ```
 
-Usage
+## Usage
 
 To run the AutoML pipeline on your regression dataset:
 ```python
