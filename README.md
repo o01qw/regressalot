@@ -1,6 +1,6 @@
-# regressalot
+# Regressalot
 
-**regressalot** is a lightweight AutoML utility designed for **preliminary analysis and model comparison**.  
+**Regressalot** is a lightweight AutoML utility designed for **preliminary analysis and model comparison**.  
 It helps you quickly assess the performance of multiple machine learning models using default settings and diagnostics — ideal for early exploration before fine-tuning or scaling.
 
 ## Features
