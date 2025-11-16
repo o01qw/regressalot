@@ -1,3 +1,4 @@
+![Sir Regresssalot](assets/regressaloticon.jpg)
 # Regressalot
 
 **Regressalot** is a lightweight AutoML utility designed for **preliminary analysis and model comparison**.  
